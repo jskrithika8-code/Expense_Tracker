@@ -1,0 +1,12 @@
+id,date,amount,category,description
+1,2026-06-27,250.0,Food,Food
+2,2026-06-27,300.0,Transport,Transport
+3,2026-06-27,2000.0,Education,Education
+4,2026-06-20,1500.0,Shopping,Shopping
+5,2026-05-27,250.0,Entertainment,Entertainment
+6,2026-05-27,2000.0,Education,Education
+7,2026-05-15,1000.0,Food,Food
+8,2026-05-15,1200.0,Other,Other
+9,2026-04-27,2000.0,Health,Health
+10,2026-04-27,1000.0,Food,Food
+11,2026-04-17,1200.0,Shopping,Shopping
