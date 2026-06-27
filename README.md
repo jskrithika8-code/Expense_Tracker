@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (GUI)
+#  Expense Tracker (GUI)
 
 Intern ID: CITS5313
 
@@ -10,19 +10,19 @@ Project Name: Expense Tracker
 
 Project Scope: Develop a desktop application that automatically records and categorizes daily expenses, safely stores data in both CSV and JSON formats, supports monthly filtering and summary reports with visual bar charts, and provides an intuitive dark-themed graphical interface built with Python and Tkinter.
 
-# 💰 Expense Tracker — Tkinter GUI
+# Expense Tracker — Tkinter GUI
 
 A Python-based desktop application that automatically tracks and organizes your expenses by category, handles monthly summaries with visual bar charts, supports CSV & JSON export, and provides an intuitive dark-themed graphical interface.
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 Expense Tracker GUI is a Python-based desktop application that helps users record, view, filter, and analyze their daily expenses through a clean and modern Tkinter interface. It stores all data in both CSV and JSON formats automatically.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ➕ Add expenses with category, description, and date
 - 📋 View all expenses in a sortable table
@@ -35,7 +35,7 @@ Expense Tracker GUI is a Python-based desktop application that helps users recor
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -50,7 +50,7 @@ Expense Tracker GUI is a Python-based desktop application that helps users recor
 
 ---
 
-## 🗂️ Categories Supported
+## Categories Supported
 
 | Category | Color |
 |---|---|
@@ -65,7 +65,7 @@ Expense Tracker GUI is a Python-based desktop application that helps users recor
 
 ---
 
-## 🖥️ GUI Tabs
+## GUI Tabs
 
 | Tab | Description |
 |---|---|
@@ -75,7 +75,7 @@ Expense Tracker GUI is a Python-based desktop application that helps users recor
 
 ---
 
-## ▶️ Working
+## Working
 
 1. Launch the app using `python expense_tracker_gui.py`
 2. Use the **➕ Add** tab to enter amount, category, description, and date
